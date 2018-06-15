@@ -17,7 +17,7 @@
                   <groupId>org.apache.commons</groupId>
                   <artifactId>commons-compress</artifactId>
                   <version>1.11</version>
-         </dependency
+             </dependency>
     </dependencies>
 
 </project>
